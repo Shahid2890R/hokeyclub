@@ -19,7 +19,7 @@ tailwind.config = {
         container: "1170px",
       },
       backgroundImage: {
-        bannerImg: "url('../images/1.png')",
+        bannerImg: "url('../Images/1.png')",
       },
     },
   },
